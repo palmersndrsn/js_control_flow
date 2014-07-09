@@ -1,3 +1,3 @@
-var degC =prompt("enter temp C")
+var degC = 35
 var degF = (((degC * 9) / 5) + 32)
-console.log(degF)
+console.log("It is " + degF "Fahrenheit")
